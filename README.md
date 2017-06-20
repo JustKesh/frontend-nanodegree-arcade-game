@@ -1,7 +1,9 @@
 #Princess Frogger Online Arcade Game
 
 ## How to Run
-To start playing the game, open the index.html file in a browser of your choice.
+To start playing the game, 
+*If you are downloading the entire directory, open the index.html file in a browser of your choice.
+*Open the following link from [github](https://justkesh.github.io/frontend-nanodegree-arcade-game/).
 
 ## How to Play
 **Objective:** Help the princess reach the water without stepping on a bug. The bugs move in varying speeds on the paved block portion of the scene. Once the princess collides with a bug, the princess is reset and moves back to the grassy area. Once the Princess reaches the water, you have won the game and can start all over again.
